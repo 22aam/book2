@@ -4545,3 +4545,5 @@ n = 15
 n = 15
 n = 15
 new Function*.variable_power
+head.log.pi.int.loop
+				   
